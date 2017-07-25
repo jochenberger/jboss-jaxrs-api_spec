@@ -60,7 +60,7 @@ package javax.ws.rs;
  * <p>
  * Note that the exception is used to indicate (internal) JAX-RS processing errors.
  * It is not used to indicate HTTP error response states. A HTTP error response is
- * represented by a {@link javax.ws.rs.WebApplicationException} class or one of it's
+ * represented by a {@link javax.ws.rs.WebApplicationException} class or one of its
  * sub-classes.
  * </p>
  *
