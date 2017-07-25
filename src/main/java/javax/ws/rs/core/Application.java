@@ -53,7 +53,7 @@ import java.util.Set;
  * {@link javax.ws.rs.core.Context}.
  * </p>
  * <p>
- * In case any of the {@code Application} subclass methods or it's constructor
+ * In case any of the {@code Application} subclass methods or its constructor
  * throws a {@link RuntimeException}, the deployment of the application SHOULD
  * be aborted with a failure.
  * </p>
